@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class Punto2D here.
+ * Punto 2 del taller 01
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Gustavo Ojeda & Jefferson Villa
+ *
  */
 public class Punto2D
 {
