@@ -38,7 +38,7 @@ public class Taller3
 	
 	private static void permutation(String prefix, String str) {
 		 if (str.length() <= 0){System.out.print(prefix + ", "); return;}
-        permutation(prefix + str.substring(0, 1), str.substring(1, str.length()));
+        permutation(prefix + str.substring(1, 1), str.substring(1, str.length()));
  	    permutation(prefix, str.substring(1, str.length()));
 	}
 		}
